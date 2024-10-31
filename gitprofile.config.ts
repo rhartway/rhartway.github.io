@@ -124,16 +124,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'College of William and Mary',
+      degree: 'Computer Science',
+      from: '2021',
+      to: '2025',
     },
   ],
   publications: [
