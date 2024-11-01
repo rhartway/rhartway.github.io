@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'rhartway', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -69,12 +69,12 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
     email: 'rhartway1@gmail.com',
   },
@@ -101,7 +101,7 @@ const CONFIG = {
   experiences: [
     {
       company: 'William and Mary GeoLab',
-      position: 'Position',
+      position: 'Front End Web Developer',
       from: 'September 2021',
       to: 'Present',
       companyLink: 'https://example.com',
